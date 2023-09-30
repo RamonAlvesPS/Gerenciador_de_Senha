@@ -22,7 +22,7 @@
   Siga os passos abaixo para executar o projeto em seu ambiente local:
 
   1. Clone esse repositório.
-    <br/>```git clone https://github.com/RamonAlvesPS/Gerenciador_de_Senha```
+    <br/>```git clone https://github.com/RamonAlvesPS/Gerenciador_de_Senha.git```
     <br/>```cd Gerenciador_de_Senha```
 
   3. Instale as dependências:
@@ -30,11 +30,12 @@
     <br/>```pip install -r requirements.txt```
 
   5. Execute a aplicação:
-    <br/>```python.exe index.py```
+    <br/>```python index.py```
 
 ## Implementar:
 - Melhorar a segurança
 - Adicionar uma GUI (interface gráfica)
+- ...
 
 ## Contribuindo
   Se você quiser contribuir para este projeto, sinta-se à vontade para criar uma "issue" ou enviar um "pull request". Estamos abertos a sugestões e melhorias!
