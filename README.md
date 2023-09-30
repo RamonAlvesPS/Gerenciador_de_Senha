@@ -11,32 +11,26 @@
 
 ## Funcionalidades
  O gerenciador de senhas oferece as seguintes funcionalidades:
-    - Inserir Nova Senha (i): Permite ao usuário inserir uma nova senha associada a um serviço específico.
-    - Listar Serviços (l): Exibe uma lista de serviços e senhas salvos.
-    - Recuperar Senha (r): Recupera a senha associada a um serviço específico.
-    - Modificar Senha de Administrador (m): Permite ao administrador do sistema modificar sua senha de acesso.
-    - Cadastrar Novo Administrador (c): Permite cadastrar um novo administrador para acessar o sistema.
-    - Sair (s): Encerra a aplicação.
+- Inserir Nova Senha (i): Permite ao usuário inserir uma nova senha associada a um serviço específico.
+- Listar Serviços (l): Exibe uma lista de serviços e senhas salvos.
+- Recuperar Senha (r): Recupera a senha associada a um serviço específico.
+- Modificar Senha de Administrador (m): Permite ao administrador do sistema modificar sua senha de acesso.
+- Cadastrar Novo Administrador (c): Permite cadastrar um novo administrador para acessar o sistema.
+- Sair (s): Encerra a aplicação.
 
 ## Como rodar o projeto?
   Siga os passos abaixo para executar o projeto em seu ambiente local:
 
   1. Clone esse repositório.
-    ```
-    1. git clone https://github.com/RamonAlvesPS/Gerenciador_de_Senha
-    2. cd Gerenciador_de_Senha
-    ```
+    <br/>```git clone https://github.com/RamonAlvesPS/Gerenciador_de_Senha```
+    <br/>```cd Gerenciador_de_Senha```
 
-  2. Instale as dependências:
-    ```
-    1. pip install --upgrade pip
-    2. pip install -r requirements.txt
-    ```
+  3. Instale as dependências:
+    <br/>```pip install --upgrade pip```
+    <br/>```pip install -r requirements.txt```
 
-  3. Execute a aplicação:
-    ```
-    1. python.exe index.py
-    ```
+  5. Execute a aplicação:
+    <br/>```python.exe index.py```
 
 ## Implementar:
 - Melhorar a segurança
@@ -46,8 +40,8 @@
   Se você quiser contribuir para este projeto, sinta-se à vontade para criar uma "issue" ou enviar um "pull request". Estamos abertos a sugestões e melhorias!
 
 ## Licença
-  Este projeto está licenciado sob a Licença MIT.
+  Este projeto está licenciado sob a [Licença MIT](https://github.com/RamonAlvesPS/Gerenciador_de_Senha/blob/main/LICENSE).
 
 ## Contato
-  Se você tiver alguma dúvida ou sugestão, entre em contato pelo e-mail [ramon.alves.ps@gmail.com] ou abra uma "issue" neste repositório.
+  Se você tiver alguma dúvida ou sugestão, entre em contato pelo [e-mail](ramon.alves.ps@gmail.com) ou abra uma "issue" neste repositório.
 
